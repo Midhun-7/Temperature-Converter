@@ -1,0 +1,6 @@
+/* TemperatureConverter.css */
+.temperature-converter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
